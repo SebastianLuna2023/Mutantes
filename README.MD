@@ -13,4 +13,3 @@ Si cumple con esta condición, el sistema arrojará como resultado que se encont
 ## Dificultes
 
 Actualmente, se plantea utilizar la menor cantidad de bucles y en su lugar utilizar recursividad, así como también evitar el uso de librerías.
-
