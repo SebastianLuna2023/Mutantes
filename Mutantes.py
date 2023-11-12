@@ -135,3 +135,4 @@ if isMutant(dna):
 else:
     print("No se encontro gen mutante")
     print("--------------------------------------")
+    
