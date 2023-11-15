@@ -1,6 +1,7 @@
 # Mutants
 * Nombre y Apellido: Sebastián Luna
 * Email: sebas16_2003@hotmail.com
+* Registro: 51588 
 
 ## Proyecto Mutantes
 
@@ -12,11 +13,18 @@ Si cumple con esta condición, el sistema arrojará como resultado que se encont
 
 ## Dificultades
 
-Actualmente, se plantea utilizar la menor cantidad de bucles y en su lugar utilizar recursividad, así como también evitar el uso de librerías.
+*Actualmente, se plantea utilizar la menor cantidad de bucles y en su lugar utilizar recursividad, así como también evitar el uso de librerías.
+*Adicionalmente agregue el recorrido de diagonal invertida 
 
 ## Testeo
 
-Las siguientes matrices podran utilizarse para comprobar si existe el codigo genico mutante o es simplemente de humanos
+Deberan ingresar una por una las filas a medida el sistema se los solicite de la forma:
+
+   fila = input(f"Ingrese fila {contadorFila}: ")
+
+El usuario debera ingresar: ATGCGA
+  
+Las siguientes matrices podran utilizarse para comprobar si existe el codigo genico mutante o es simplemente de humano
 
     * MUTANTES:
     dna = ["ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"]
